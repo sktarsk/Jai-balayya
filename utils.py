@@ -472,15 +472,15 @@ async def get_shortlink(chat_id, link):
     if URL.startswith("shorturllink") or URL.startswith("terabox.in") or URL.startswith("urlshorten.in"):
         URL = SHORTLINK_URL
         API = SHORTLINK_API
-    if URL == "paisakamalo.in/api":
+    if URL == "atglinks.com/api":
         # method 1:
         # https = link.split(":")[0] #splitting https or http from link
         # if "http" == https: #if https == "http":
         #     https = "https"
         #     link = link.replace("http", https) #replacing http to https
-        # conn = http.client.HTTPSConnection("paisakamalo.in")
+        # conn = http.client.HTTPSConnection("atglinks.com")
         # payload = json.dumps({
-        #   "api_key": "2Os2Dk6GnNhV88jLAINnahwZ4d13",
+        #   "api_key": "fe741eb480194eb9386887c00ac128aa1423c42a",
         #   "monetization": True,
         #   "destination": link,
         #   "ad_page": 3,
