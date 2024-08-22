@@ -26,7 +26,8 @@ NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/e20b5fdaf217252964202.j
 MELCOW_VID = environ.get("MELCOW_VID", "https://telegra.ph/file/85d361ab4cb6511006022.mp4")
 SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/86b7b7e2aa7e38f328902.jpg")
 SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://graph.org/file/496507b8ae75af3396f2d.jpg'))
-CODE = (environ.get('CODE', 'https://graph.org/file/5b72caf4ee5b393775059.jpg'))
+QR_CODE_IMG = environ.get('QR_CODE_IMG','https://graph.org/file/5b72caf4ee5b393775059.jpg') #add url link of your qr code to recieve money - use telegraph bot or other source to get image
+UPI_ID = environ.get('UPI_ID', 'srikanthksk786@ybl') #enter your upi id here - grab it from your online payment methods.
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '1285768957').split()]
