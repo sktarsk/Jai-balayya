@@ -296,7 +296,7 @@ BOT WORKING PROPERLY"""
 ● <code>200₹</code> ➛ <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u> » <code>365 ᴅᴀʏꜱ</code>
 
 💵 ᴜᴘɪ ɪᴅ - <code> msg him -> @JaiBalayyaMovies_bot </code>
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegram.me/JaiBalayyaMovies_bot'> ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://graph.org/file/5b72caf4ee5b393775059.jpg'> ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
 
