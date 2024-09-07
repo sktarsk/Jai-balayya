@@ -10,3 +10,4 @@ RUN mkdir /TheMovieProviderBot
 WORKDIR /TheMovieProviderBot
 COPY start.sh /start.sh
 CMD ["/bin/bash", "/start.sh"]
+port 8080
