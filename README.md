@@ -86,12 +86,6 @@ Read [this](https://telegram.dog/sources_cods) before you start messing up with 
 * `FQDN`: Domain name of your currently deployed bot.
 
 
-## Deploy
-You can deploy this bot anywhere.
- Koyeb
- Render
- Heroku Support Sites 😎
-
 
 ## Commands
 ```
@@ -153,7 +147,7 @@ You can deploy this bot anywhere.
 <br>
 <br>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/VJBots/VJ-Filter-Bot&branch=Tech_VJ&name=VJ-Filter-Bot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/sktarsk/Jai-balayya&branch=main&name=Jai-balayya)
 </details>
 
 ## Thanks to 
